@@ -3,7 +3,7 @@ Neo Browser Bypass a soul companion to your IamNeo/Examly !!! Easily One click a
 ---
 # 🚨 To Bypass/Surpass Neo Browser Enabled Testts
 
-**Join Telegram to Purchase License**
+**For Support Contact(Free PHASE) After free phase is over it will be back to License Activation.**
 - DM Telegram: [@unknwnxrajvir](https://t.me/unknwnxrajvir)
 - Telegram Channel: [Telegram Channel](https://t.me/suckneo)
 
