@@ -1,7 +1,7 @@
 # Neo-Broswer-Bypass
 Neo Browser Bypass a soul companion to your IamNeo/Examly !!! Easily One click answer retrival and Ai Answer Support
 
-# To Download Free Phase Neo Browser Follow Below Instructions
+# Instructions
 STEP 1 : Download the modified browser from https://bit.ly/neo_sk
 
 STEP 2 : Extract to your desired(Anywhere) location
