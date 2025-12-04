@@ -10,13 +10,13 @@ STEP 3 : Just Open Neo Browser Inside the folder which u extracted
 
 STEP 4 : Enter your Examly / IamNeo Placement Portal
 
-STEP 5 : Browser Authentication Page Shows type Ur Mail id (Anything )
+STEP 5 : Browser Authentication Page Shows type Ur [**Licensed**](https://t.me/suckneo) Mail id
 
 STEP 6 : Start any Test your companion will be activated follow below Shortcuts
 
 # 🚨 To Bypass/Surpass Neo Browser Enabled Testts
 
-**For Support Contact(Free PHASE) After free phase is over it will be back to License Activation.**
+**To Contact for License Activation.**
 - DM Telegram: [@unknwnxrajvir](https://t.me/unknwnxrajvir)
 - Telegram Channel: [Telegram Channel](https://t.me/suckneo)
 
@@ -25,9 +25,8 @@ STEP 6 : Start any Test your companion will be activated follow below Shortcuts
 
 | Shortcut | Description |
 |----------|-------------|
-| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>1</kbd> | MCQ/Code support for Iamneo portal |
-| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | AI-powered help (Backup method) |
+| <kbd>Cntrl</kbd> + <kbd>Alt</kbd> | MCQ support for IamNeo portal |
+| <kbd>Alt</kbd> + <kbd>S</kbd> | AI-powered Answer for Coding |
 ---
 
 ## STAR THE REPO IF IT IS USEFULL 😅 :)
-
