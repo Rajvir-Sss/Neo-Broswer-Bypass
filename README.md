@@ -27,6 +27,7 @@ STEP 6 : Start any Test your companion will be activated follow below Shortcuts
 |----------|-------------|
 | <kbd>Cntrl</kbd> + <kbd>Alt</kbd> | MCQ support for IamNeo portal |
 | <kbd>Alt</kbd> + <kbd>S</kbd> | AI-powered Answer for Coding |
+| <kbd>Alt</kbd> + <kbd>A</kbd> | AI-powered Answer for Coding (Backup) |
 ---
 
 ## STAR THE REPO IF IT IS USEFULL 😅 :)
